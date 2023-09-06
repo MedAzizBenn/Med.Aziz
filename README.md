@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medazizbenn&label=Profile%20views&color=0e75b6&style=flat" alt="medazizbenn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medazizbenn" alt="medazizbenn" /></a> </p>
-
 - 🔭 I’m currently working on **Open Source Contribution**
 
 - 🌱 I’m currently learning **Devops**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medazizbenn&show_icons=true&locale=en&layout=compact" alt="medazizbenn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medazizbenn&show_icons=true&locale=en" alt="medazizbenn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medazizbenn&" alt="medazizbenn" /></p>
